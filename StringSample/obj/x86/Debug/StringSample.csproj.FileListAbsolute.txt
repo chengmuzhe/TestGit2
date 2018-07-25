@@ -1,0 +1,4 @@
+G:\_cmz\c#\StringSample\StringSample\bin\Debug\StringSample.exe
+G:\_cmz\c#\StringSample\StringSample\bin\Debug\StringSample.pdb
+G:\_cmz\c#\StringSample\StringSample\obj\x86\Debug\StringSample.exe
+G:\_cmz\c#\StringSample\StringSample\obj\x86\Debug\StringSample.pdb
